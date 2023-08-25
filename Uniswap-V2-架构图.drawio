@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-08-25T07:20:13.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2B3CUNa3e2GLOdDuyG1A" version="21.6.9" type="github">
+  <diagram name="第 1 页" id="koWzIlelXBfN0tAOrRkD">
+    <mxGraphModel dx="853" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kfU6DUed51PpgYBPSKgS-2" value="uniswap-interface" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-4" value="uniswap-sdk-core" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-5" value="uniswap-v2-sdk" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-7" value="uniswap-v2-periphery" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-8" value="uniswap-v2-core" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-9" value="uniswap-lib" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-10" value="uniswap-info" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-11" value="uniswap-v2-subgraph" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kfU6DUed51PpgYBPSKgS-13" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="1090" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
